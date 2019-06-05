@@ -1,5 +1,5 @@
 {
-    "repo_docs_name": "REPO_FORMAL_NAME",
+    "repo_docs_name": "REPO_DOCS_NAME",
     "repo_dir_name": "{{ cookiecutter.repo_docs_name | replace(' ', '-') | replace('_', '-') | lower }}",
     "license": ["Not open source", "Apache Software License 2.0", "BSD-3", "GNU GPL v3.0", "MIT"],
     "author": "AUTHOR",
