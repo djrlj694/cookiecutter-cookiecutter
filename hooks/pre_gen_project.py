@@ -15,6 +15,13 @@ __modified_date__= '{% now 'local', '%b %d, %Y' %}'
 
 ### Libraries ###
 
+# 3rd-party
+
+import os
+import sys
+
+from cookiecutter.main import cookiecutter
+
 ### Variable Declarations ###
 
 ### Function Declarations ###
