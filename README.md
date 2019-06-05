@@ -64,7 +64,7 @@ Customization options defined in Cookiecutter-Cookiecutter's `cookiecutter.json`
 | `repo_name` | Repository's name as it would appear in documents (i.e., permits spaces and mixed-case) | N/A | `REPO_NAME` |
 | `repo_dir` | GitHub-conforming name of the repository's root directory | N/A | A lower-case, hyphenated version of the value of `repo_name` |
 | `repo_license` | Repository's open-source software licence (or not) | `Not open source`, `Apache Software License 2.0`, `BSD-3`, `GNU GPL v3.0`, `MIT`  | `Not open source` |
-| `lead_author` | Name of the repository's lead author | N/A | `LEAD_AUTHOR` |
+| `lead_name` | Name of the repository's lead author | N/A | `LEAD_NAME` |
 | `lead_email` | Email address of the repository's lead author | N/A | `USER@DOMAIN.TLD` |
 
 By default, the user is prompted to assign a value for each key.  This cookiecutter feature may also be silenced.  The subsections that follow show how.
