@@ -1,0 +1,4 @@
+{
+    "repo_docs_name": "{{" + "}}",
+    "repo_dir_name": "{{ " + "cookiecutter.repo_docs_name | replace(' ', '-') | replace('_', '-') | lower" + " }}"
+}
