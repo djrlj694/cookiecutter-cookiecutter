@@ -1,8 +1,11 @@
 # Cookiecutter-Cookiecutter
 
-[Cookiecutter](https://github.com/audreyr/cookiecutter) is a cross-platform software tool that generates [**boilerplate**](https://en.wikipedia.org/wiki/Boilerplate_code) for [**software projects**](https://en.wikipedia.org/wiki/Software_project_management) from templates.  These templates, called **cookiecutters**, can be used to define a project's directory tree structure, the names of its directories and files, and the boilerplate content of its files.  They can also facilitate, both manually and automatically, the run-time customization of the generated names and boilerplate.
+[Cookiecutter](https://github.com/audreyr/cookiecutter) is a cross-platform software tool that generates [**boilerplate**](https://en.wikipedia.org/wiki/Boilerplate_code) for [**software projects**](https://en.wikipedia.org/wiki/Software_project_management) from templates.  These templates, called **cookiecutters**, can be used to define how a project's directories and files are named and organized as well as the content of its files.  They can also facilitate, both manually and automatically, the run-time customization of the generated names and content.
 
-The cookiecutter presented here, Cookiecutter-Cookiecutter, defines a basic directory structure and template files for generating boilerplate for cookiecutters.  These cookiecutters are rudimentary, containing only a starter set of files.
+The cookiecutter presented here, Cookiecutter-Cookiecutter, defines a boilerplate template for creating cookiecutters themselves.  The resulting boilerplate is a basic directory tree and a starter set of files for beginning a new cookiecutter project.  Included in these files are:
+
+* A store for defining template variables that, by default, prompt the user for input;
+* Python scripts to run before or after generating boilerplate.
 
 ## Usage
 
@@ -100,11 +103,11 @@ For info on installing any of the prerequisite software, refer to the [official]
 
 ## Known Issues
 
-Currently, there are no known issues.  If you discover any, please kindly submit a [pull request](.github/CONTRIBUTING.md).
+Currently, there are no known issues.  If you discover any, please kindly submit a [pull request](CONTRIBUTING.md).
 
 ## Contributing
 
-Code and codeless (e.g., documentation) contributions toward improving Cookiecutter-Cookiecutter are welcome. See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for more information on how to become a contributor.
+Code and codeless (e.g., documentation) contributions toward improving Cookiecutter-Cookiecutter are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to become a contributor.
 
 ## License
 
