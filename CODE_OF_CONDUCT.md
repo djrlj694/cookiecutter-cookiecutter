@@ -1,6 +1,6 @@
-# Cookiecutter Cookiecutter Code of Conduct
+# Code of Conduct
 
-Below is the Code of Conduct to which all contributors and participants in the [Cookiecutter Cookiecutter](/../) community are expected to adhere.
+Below is the Code of Conduct to which all of our contributors and participants are expected to adhere.
 It is adopted from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
 ## Our Pledge
